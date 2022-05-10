@@ -20,3 +20,8 @@ The project includes:
 5) Normalization
 6) Procedure Functions
 7) SQL Queries
+
+# Software Used:
+
+- XAMPP
+- DBeaver
